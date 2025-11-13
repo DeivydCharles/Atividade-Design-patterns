@@ -25,4 +25,5 @@ Representado pela letra "O" em SOLID, o Princípio Aberto/Fechado estabelece que
 
 - srpExample.js: Exemplo do Princípio da Responsabilidade Única (Single Responsibility Principle - SRP)
 
-Representado
+Representado pela letra "S" em SOLID, o Princípio da Responsabilidade Única estabelece que "uma classe deve ter apenas uma razão para mudar". Isso significa que cada classe deve ser responsável por uma única funcionalidade ou responsabilidade dentro do sistema, o que facilita a manutenção e a compreensão do código.
+
